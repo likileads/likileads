@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @likileads
-- 👀 I’m interested in Machine Learning
-- 🎓 Undergraduate
+
+### 🎓 Undergraduate
 
 
 <!---
