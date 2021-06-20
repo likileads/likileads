@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=likileads)
 
 
-# I'm Pratyusa Dwibedy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+# I'm Likith R <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 <!---
 likileads/likileads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
