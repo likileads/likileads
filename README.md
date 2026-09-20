@@ -1,6 +1,6 @@
-## Hi, I'm Likith R 👋
+## Hi, I'm Likith R
 
-I'm a **Senior Backend Engineer** building scalable systems and AI-powered applications.
+**Senior Software Engineer** building scalable systems and AI-powered applications.
 
 ### Engineering curiosities
 
@@ -15,7 +15,7 @@ I'm a **Senior Backend Engineer** building scalable systems and AI-powered appli
 - RAG systems and applications powered by LLMs
 - AI-driven solutions for real-world backend problems
 
-### Technologies
+## Technologies
 
 #### Languages & frameworks
 
@@ -41,6 +41,6 @@ I'm a **Senior Backend Engineer** building scalable systems and AI-powered appli
 
 ---
 
-💬 Ping me about **backend engineering**, **system design**, **engineering best practices**, or **interesting engineering problems**.
+💬 Always up for a chat on **backend engineering**, **system design**, **engineering best practices**, or **interesting engineering problems**.
 
-**PS:** You can probably find me near a whiteboard, turning ideas into boxes and arrows. 😄
+*If there's a whiteboard nearby, I'm probably drawing boxes and arrows. 😄*
